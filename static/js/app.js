@@ -77,7 +77,7 @@ function buildCharts(sample) {
       labels: data.otu_ids.slice(0, 10),
       hovertext: data.otu_labels.slice(0, 10),
       type: "pie",
-      mode='markers',
+      mode:'markers',
       hoverinfo: 'hovertext',
       cosorscale: 'rainbow',
       // marker: {
