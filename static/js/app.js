@@ -79,7 +79,7 @@ function buildCharts(sample) {
       type: "pie",
       mode:'markers',
       hoverinfo: 'hovertext',
-      cosorscale: 'rainbow',
+      colorscale: 'rainbow',
       // marker: {
       //   colorscale: "Earth"
       // }
