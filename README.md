@@ -1,4 +1,4 @@
-# Plot.ly - Belly Button Biodiversity
+# Plotly - Belly Button Biodiversity
 # Plotly.js
 
 Use potly.js to build interactive charts for a dashboard.
